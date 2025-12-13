@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá, eu sou Luciano Faria
 
-<!--
-**Luciano-Faria/Luciano-Faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+☕ Focado em Java e Back-end  
+🚀 Em busca da primeira oportunidade como desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mim
+- 📚 Faço faculdade de Analise e Desenvolvimento de Sistemas
+- ⏰ Estudo até 4h por dia
+- 🎮 Gosto de games e tecnologia
+- 🎯 Objetivo: me tornar desenvolvedor back-end Java
+
+### 🚀 Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
