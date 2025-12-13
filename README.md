@@ -7,7 +7,7 @@
 ---
 
 ### 📌 Sobre mim
-- 📚 Faço faculdade de Analise e Desenvolvimento de Sistemas
+- 📚 Estudando Java (lógica, POO, back-end)
 - ⏰ Estudo até 4h por dia
 - 🎮 Gosto de games e tecnologia
 - 🎯 Objetivo: me tornar desenvolvedor back-end Java
