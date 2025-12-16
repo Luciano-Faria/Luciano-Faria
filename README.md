@@ -4,13 +4,6 @@
 ☕ Focado em Java e Back-end  
 🚀 Em busca da primeira oportunidade como desenvolvedor  
 
----
-
-## 📌 Sobre mim
-- 📚 Estudando Java (lógica, POO, back-end)
-- ⏰ Estudo até 4h por dia
-- 🎮 Gosto de games e tecnologia
-- 🎯 Objetivo: me tornar desenvolvedor back-end Java
 
 - ## 🌐 Redes sociais
 
@@ -29,4 +22,8 @@
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
+  📫 Entre em contato comigo
+
+
 
